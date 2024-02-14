@@ -1,2 +1,2 @@
 # Echo-Chat
-Chat Application Using Spring Boot And React
+Chat Application Using Spring Boot And Angular
